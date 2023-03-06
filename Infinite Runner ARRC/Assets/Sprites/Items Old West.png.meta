@@ -1,0 +1,5748 @@
+fileFormatVersion: 2
+guid: 9562e2f58d5826448a6e6a8d29c57d0d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Items Old West_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1020
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a076301c488ef36489b703e0bd0ea5ca
+      internalID: 1260995333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1026
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de53208fafa6a114fa3a553dbb4ec0e9
+      internalID: -2023125213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1026
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6234307b47ed2874c8399e08d994aa1e
+      internalID: 1342804571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1026
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e422b705f57143bc779426decf7a1
+      internalID: 1551150724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1026
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37188c63bedcd42468aae649d20bd0ab
+      internalID: -1278240081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1026
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0992652f7a6d7c4bb23aa5467fae120
+      internalID: 220652812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1025
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d225f31fbed6374aa9af0f218e746a2
+      internalID: -538609392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1022
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88c3c61b6f0c249a85e0a07fb735a5
+      internalID: -822411861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1029
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98362152f58a6c948a758a4bd04dd0af
+      internalID: 137858319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 977
+        width: 34
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8aaf99b9342e4ca25ac56f6c61d40
+      internalID: -1807952024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 977
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2210fdebc14484285f04d785307d07
+      internalID: -1196532385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 978
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d4ad8594483249a47f8761c512d6f
+      internalID: -384860642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 978
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6b4a6626e8b7c4590ea11bf6c6f362
+      internalID: -1784969585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_13
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 981
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64bdb4d515d604590c7863ce7b4938
+      internalID: 748386677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_14
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 981
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248478a5418ea5e40bd97f8e01c14cee
+      internalID: -300451938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 981
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342247c460a2d9f46beee92478ea0d95
+      internalID: 462839960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_16
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1016
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0a75ffc3703b84da1c93737e9cb3b9
+      internalID: 1030522056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_17
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1022
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34c6d468094d5640a4f68aea08afa49
+      internalID: 1656555892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_18
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1022
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20372f768c83daa44bffda2e3a799974
+      internalID: -1844348635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_19
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1022
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420510c6584e50145ad2f83d37997443
+      internalID: -2021215573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_20
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1022
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb44dffaf7ddc3d46b02d6000e57acec
+      internalID: -259789950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_21
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1022
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e40129b56d2149add354d8c699b3e
+      internalID: 1313344367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_22
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1020
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cd06ac6fb42f24ca63d367560c675f
+      internalID: 1149032376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_23
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1017
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b2c70e3725114ebd367a0b33eafa5
+      internalID: 38511696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_24
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1023
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1c6b26e60e71949b0f3ba508784c9f
+      internalID: 1078206045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_25
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 978
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7a4e7f49a9ae34d91707286cda2a84
+      internalID: -773909973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_26
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 978
+        width: 34
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f13ed8cc20594982e4b1dc0254a59
+      internalID: 1103043087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_27
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 982
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd5572e6b14b243afad97d04fc4d52
+      internalID: 429121558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_28
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 980
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7543182ab5d74c64b99dfe1fc32d2b62
+      internalID: -1564373549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_29
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 982
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.41430876, y: 0.43787384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a99dcf28f37a4b4c85ddd5051a0e1ae
+      internalID: -1048084993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_30
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 982
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25cfe6544f230458ee1a0848ca1a12
+      internalID: -1067572629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_31
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 982
+        width: 63
+        height: 96
+      alignment: 9
+      pivot: {x: 0.46844384, y: 0.43787384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00efdbbfd3518514ca2f0771ae8b404d
+      internalID: 1347900891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 968
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cc2162e6ec9594c8af3032a19cb3f7
+      internalID: 2091428446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_34
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 963
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66955b45be9e864a890771842232fc1
+      internalID: -998570803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 899
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23bda106db01c5469055f59e1618665
+      internalID: -982874395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 850
+        width: 29
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf620fd7f92b664f9e51fd795df0cf7
+      internalID: -1096474757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 850
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0645c00f4e70b140baf44f2fc51278d
+      internalID: 402616521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 850
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd7c59d00f834c4ab4b89e5dc2474ed
+      internalID: 472315811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_39
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 850
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce419e61a6db84a96bd979ec8502c5
+      internalID: -1827430209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_40
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 850
+        width: 32
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8fa49d42fc9074f87fd9d47ff7104c
+      internalID: -1027032340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 850
+        width: 34
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60cbf3caf491954d84b885d39d01c76
+      internalID: -1482662796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_42
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 850
+        width: 34
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff7a9ec91473434e86a4c090058d954
+      internalID: 2028102040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 850
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d1d73fe01fb4f4e8005ee36983c945
+      internalID: -302022100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_44
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 850
+        width: 31
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad0e703b741844f852bf4f69ea46bb
+      internalID: -1360090680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_45
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 850
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cc05c7da4a2aa4c885d81e0f675684
+      internalID: -1386181177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_46
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 850
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f791b9f737c3a4fa3e69e60a0b5a98
+      internalID: 1303723519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_47
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 850
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87d3b0ff6b98a449748ef366a1a453
+      internalID: -2051993822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_48
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 850
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124f574ee8479843957f22e36ce2fe4
+      internalID: -720132521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_49
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 895
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeefe2b54eefa5d49a902ea918b2fcbf
+      internalID: -827553146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_50
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 846
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0fce72939aee45b3d5b35ebce118f
+      internalID: -2052152715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_51
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 846
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43cbd24212f33c4f9ffe3562036c443
+      internalID: -1081278195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_52
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 846
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea63d7cc9c83c4e9e8ab8eaa79444f
+      internalID: -256221195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_53
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 846
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0748ffeb8fdb73e41ab5a5e50060ed87
+      internalID: 944098293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_54
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 846
+        width: 32
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4306a458fd922141929f6f1c65909c2
+      internalID: 2141524912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_55
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 846
+        width: 35
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cbff2a23f4da34dbfdf57f89a6663c
+      internalID: 42718610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_56
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 846
+        width: 35
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a586ad59082b4ba3fefa823f499ce
+      internalID: -882397350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_57
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 854
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaefd043af7346468a43b5dff96d0a8
+      internalID: -79169393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_58
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 854
+        width: 31
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e29748b02e9e764788d34e79f2db173
+      internalID: -1027746182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_59
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 854
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b124e02149a4a944fb6a14eae7ecca54
+      internalID: -1739130546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_60
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 854
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29994bae0235c43bbbf75c1dc17d9c
+      internalID: -413012249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_61
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 854
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f45fc90a83ddc40a8b95ea11996656
+      internalID: -2090571768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_62
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 854
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc524d5ff8a0f744381283f24f1c63ec
+      internalID: -1367928880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 867
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246230e5698bb2468efd383cfb2912b
+      internalID: 1225587675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_64
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 862
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f29abc7e2c90834f92cac8983562095
+      internalID: -843551083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_65
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 734
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa12717a6287df249b8ad999da10ce3a
+      internalID: -1665947147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 734
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa3ec8a1294084c9d87f7fb35ddeb4
+      internalID: -1386514111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 750
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870d28241c57de40859980e89459fe7
+      internalID: 1144545360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 750
+        width: 99
+        height: 28
+      alignment: 9
+      pivot: {x: 0.32610497, y: 1.7011043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d23f3df35d4d3498a71166ca0435ff
+      internalID: -1534793960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 747
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d279c6fbca619ec43af51835fae83832
+      internalID: -842753355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_70
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 759
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16242e3ec4b824185b10be23ff7d6c
+      internalID: 1732861528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_71
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 759
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51dda8bc62eae74baf4f6c61581214a
+      internalID: -188558940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_72
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 742
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234bc6255c2bbb54eba14248b1982832
+      internalID: 283972738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_73
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 716
+        width: 31
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9299bf58dacd2439b1e30593d100ec
+      internalID: 2069525043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_74
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 743
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224cbd9003f80724d89bb0941cf250ad
+      internalID: 1178470914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_75
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 755
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4218c571af4266d4eb23cb37c6434bfa
+      internalID: 1564265636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_76
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 730
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7693377dce41f34eb097869e7b920ab
+      internalID: 844153495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_77
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 730
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6239fada544954ea38e2a0f0e4bf86
+      internalID: -1573726246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_78
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 746
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137c81bc9de8df499b4b87e957c7d22
+      internalID: -1794635339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_79
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 746
+        width: 99
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8268b7707b3a64a85a192af989cb2d
+      internalID: 1578088187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_80
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 743
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63aead89fa8ea24b9fddfd2ae487585
+      internalID: 454929093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_81
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 763
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c91d27499a5147bd7f392113d2354
+      internalID: -1741329551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_82
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 763
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57613a599bbd5764280233a932c3a3f8
+      internalID: -1017933439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_83
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 746
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58824fc995c6356489a65576337d0eb3
+      internalID: 714180115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_84
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 723
+        width: 29
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b628ab89cb3cd543bb35b0657df2f38
+      internalID: 952684126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_85
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 750
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12422d63e9461ab4e89d1d0aa21aa6e0
+      internalID: 1645315823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_86
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 762
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58047b1a6e8c23499da272cbda843fa
+      internalID: 1271394134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 660
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2e8b60651e9e4ab3331654eae4642
+      internalID: 1060491011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_88
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 659
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cabeed3ff71d14199442272d893877
+      internalID: -141586813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 659
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ee00b28f0e804d88ab23e192e0142
+      internalID: 1830397935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_90
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 659
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d2219bb2e9904e9304f4087191a24
+      internalID: -497878239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 658
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a56f13406ad204ea0660cadcb9f80b
+      internalID: 182019655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_92
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 658
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16e6ea7900af6245a01ba664e8e17bd
+      internalID: -1123969130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_93
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 659
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ddb5054b9c3d48b1d61682245c573
+      internalID: -1260333908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_94
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 659
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d9b4eafdcae8a4697247004eacf781
+      internalID: -725690976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 659
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec87d1a818a9c0439cd4c488cebb567
+      internalID: -504690370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_96
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 659
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1444ee13e7707614080b77650a365cd9
+      internalID: 728561675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 658
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c311db2cc8cabde4d976782983562c8a
+      internalID: 253114049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_98
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 658
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad9cb7250ac8534ab48c613c99fe755
+      internalID: 1161152536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_99
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 658
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07793d64256ba1b4fa952da361f9e23e
+      internalID: -947188665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_100
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 671
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3fb8b70971d2a4fb0b841468e9057f
+      internalID: 911113422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_101
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 658
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae2663b4edcbd46bcfb33900fc9aed
+      internalID: 1929394118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_102
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 658
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f33848a0bcb20d4ba1766abb57363a3
+      internalID: 1603156767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_103
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 659
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6affe73b08aa848a43c65e74239948
+      internalID: -1013296588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_104
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 670
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77216b7ae57a0af4b94cc7ecc6268c73
+      internalID: -485138898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_105
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 655
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9004e6472637b34ea6675bfe7e67258
+      internalID: 556154236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_106
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 655
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7a8f55aef20c459c684b9643e7beb
+      internalID: 735192715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_107
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 655
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42845477f578040a27ffa7ed921157
+      internalID: 229403777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_108
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 655
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6293fd51b980fac4889efacd52e75fc8
+      internalID: -587659008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_109
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 654
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617b22b51f1a0c4bb6574eafa92f11d
+      internalID: -646355908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_110
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 654
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0913c47f9a10a4f93e60dc954fa302
+      internalID: 994066068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_111
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 655
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93e9b3e54dafe46b17cfec4a0118ce
+      internalID: -556192709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_112
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 655
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f120d3688edb4d4ebb15371702f0953
+      internalID: -1855685487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_113
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 655
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5b81b824f76f4f90e475224dfe3e3
+      internalID: 1044374584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_114
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 655
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2355ab195a791444a6d60b17759b947
+      internalID: 149670568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_115
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 654
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90677fcf9c1c8224db1e4e8049736a40
+      internalID: 1704021993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_116
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 654
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8f98f533d1e341bf3987d4934a4fb
+      internalID: -1472341519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_117
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 654
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa9323ac4c2b55489429a6445c1551c
+      internalID: 421429952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_118
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 656
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f4750039fda574abb1d9a426e4415a
+      internalID: -117147190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_119
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 655
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bdc66f2b2a6ef46b96fb25e1303026
+      internalID: 1622758129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_120
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 655
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b610e3da879baae4b80e2fe8aa1e9389
+      internalID: -833102710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_121
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 656
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f524fc7e0507d1547abb252b8520ada9
+      internalID: 1689128024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_122
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 427
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1424f3e68e50e9849a4ab4d721d34dfd
+      internalID: 1483022138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_123
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 578
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdae6d4a0c26d24282072caa1f42e76
+      internalID: 191862255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_124
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 578
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beab503a1943a84dbbca0b168811ee4
+      internalID: 89193964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_125
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 574
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12368bb31d7d0344b1d102d2ffb5fd8
+      internalID: -1776990633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_126
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 580
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7333b9e12c1367f4d81101e28c06d5fb
+      internalID: 2919504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_127
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 562
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b63da5967e4b4ba5cbfe5daefcb58
+      internalID: -783099277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_128
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 569
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187855bc877e516478dbacbf109727f3
+      internalID: -704186241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_129
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 567
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ccdd82d535aa043ae4c12aa701733e
+      internalID: -378307993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_130
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 567
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97b7b9179f0ff7479e255a9b5153363
+      internalID: -850851175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_131
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 567
+        width: 32
+        height: 59
+      alignment: 9
+      pivot: {x: 0.83655167, y: 0.35031387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5a8926f41a2847b8dc397d020a2eb
+      internalID: -449133716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_132
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 567
+        width: 31
+        height: 51
+      alignment: 9
+      pivot: {x: 0.777328, y: 0.39843392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb03f2a899cda4438c9db3ddf50e28b
+      internalID: -226128778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_133
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 567
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.59143066, y: 0.44752702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4288c0a76ff2850468e81b398e71e49c
+      internalID: -1336186652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_134
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 567
+        width: 31
+        height: 51
+      alignment: 9
+      pivot: {x: 0.85818976, y: 0.39300537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe5787f363d21459e2c9de655a4433
+      internalID: 1394227255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_135
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 562
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.63015825, y: 0.5434367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e405e3af94b0f134a98929603d70cb14
+      internalID: -328894778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_136
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 606
+        width: 129
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a327ac47eed142815b93176d587e4
+      internalID: 713745860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_137
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 606
+        width: 130
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9af81e352c093e45a8bcbcf5618e8d8
+      internalID: -1979206221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_138
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 536
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a220853162041a47a1d2e23a9f8a826
+      internalID: 302915010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_139
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 536
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6903cf188fed54ca3d58b7f89cd0c7
+      internalID: -1513971743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 536
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960847fc6b8e7142bee54ea6680cf21
+      internalID: 691292824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_141
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 536
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b03680a88b54b4c9f6ae88f76af12a
+      internalID: 46377580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 536
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a564cf3e23f1c4983483f0fa803b09
+      internalID: 1105672604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_143
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 522
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff0fa0f6a0df349b20caf6afe06b1a
+      internalID: 1501582841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_144
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 566
+        width: 51
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47248632, y: 0.45615235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c92170a42ff17b468b0e8fe2c941cf1
+      internalID: 1552093045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_145
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 546
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a785af8c882071f4e902466d5c32a363
+      internalID: -1060528327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_146
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 560
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2ea5d803f92b845b7e575c46718a5f
+      internalID: -751786629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_147
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 561
+        width: 129
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c004d7685dd76a4f97bb2525350fdcf
+      internalID: 868246119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_148
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 561
+        width: 130
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449a28186b1c6444f980ec6bd77ae729
+      internalID: -1691160196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_149
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 434
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40fe0ff3f569a4d95044cbdc7347a2
+      internalID: 1000887062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_150
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 466
+        width: 34
+        height: 59
+      alignment: 9
+      pivot: {x: 0.73076135, y: 0.6090626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8013c51caeee6c428a0775488fb7697
+      internalID: 1332747119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_151
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 482
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b853aa966b5d047b4bc394348f7424
+      internalID: -1038837300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_152
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 482
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9a817177b4de249af8b4fbbd3e33b2
+      internalID: -627111744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_153
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 482
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370616d0f86f51349a843880c8df7128
+      internalID: -1792908783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_154
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 482
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d35160b97cc354e91ba7ddbbedcb8b
+      internalID: -918124297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_155
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 507
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d797cd59866674d4d84158ca55b82de7
+      internalID: 941967717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_156
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 522
+        width: 99
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45385f181f2b6064daad33c68d1173e2
+      internalID: -1130371660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_157
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 516
+        width: 129
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c1b5a8366cff4a8d644a8dde2ce43
+      internalID: 822914604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_158
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 516
+        width: 130
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cfbc8d94579974bba6c53f1bf01aaf
+      internalID: 1907312339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_159
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 419
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d43ced9ad66f5409b1567115684832
+      internalID: 311921633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_160
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 417
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184d4c06294c7474196662761f0431e2
+      internalID: 875027435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_161
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 419
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4ac396b1b363c4086bfc1a13f38168
+      internalID: -2129053409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_162
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 419
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d280dd5172e514790ea9e414bf674a
+      internalID: -189358567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_163
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 419
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88029b2bb82b10442be3edf8774b27c1
+      internalID: -1404257978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_164
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 416
+        width: 136
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd926df8b05b8499a43728055decbd
+      internalID: -2022408276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_165
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 416
+        width: 134
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1081abe0fe103841b1398076938a74a
+      internalID: 1099200168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_166
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 415
+        width: 149
+        height: 90
+      alignment: 9
+      pivot: {x: 0.53861356, y: 0.47049424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51458bc34c27614eac06a0ea29c14cb
+      internalID: -464410938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_167
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 416
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d059f6e9b828ab241a508fb402137e3f
+      internalID: -1603275137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_168
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 416
+        width: 133
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75771453cafa23444ac9bf90697ea93c
+      internalID: 593426341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_169
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 415
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6094b77443fabae4d93a075474f39ec6
+      internalID: -702526684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_170
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 91
+        width: 67
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2852b6976a0ec204d98d893a42d0e28c
+      internalID: 1950807801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 295
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00de23bb9e503449936fdb1d40b3cda
+      internalID: 928444129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_172
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 295
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa9f5f58123b4c46968d89e62c578b0
+      internalID: 1075916340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_173
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 286
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85506fa2bce9b34995be079986dc344
+      internalID: 573069120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_174
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 283
+        width: 38
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba5a154e3548a64cb9de1c955ce744a
+      internalID: 1943250236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_175
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 314
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4183d381da53349a8dedf0ce84b653
+      internalID: -1602053689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_176
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 314
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07215f61c370a4646b12513b0e189beb
+      internalID: -1197806014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_177
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 314
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510adad5e675d44e8c55653dfe73ee2
+      internalID: -481661254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_178
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 295
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e69966f0a92726479e9118c269a73a4
+      internalID: 2136722979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_179
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 262
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb937cc8d734ea41850cf392b0fa6f5
+      internalID: -1415909031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_180
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 247
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afcf91e62afd8645ba8fcbc9fec554e
+      internalID: 1712795904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_181
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 247
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951877ff82376444cb5124209f6abbf9
+      internalID: -1634289784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_182
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 253
+        width: 113
+        height: 135
+      alignment: 9
+      pivot: {x: 0.3992315, y: 0.44184706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30726aba4f25d0d4a9ccc585948ef250
+      internalID: -454529408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_183
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 266
+        width: 135
+        height: 116
+      alignment: 9
+      pivot: {x: 0.43594202, y: 0.43102765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1983c5aeef682d41ba36d1180aa5dc0
+      internalID: 602226112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_184
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 271
+        width: 127
+        height: 87
+      alignment: 9
+      pivot: {x: 0.531671, y: 0.38908756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd585cd87c39c441a3213ffd0311628
+      internalID: 653902229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_185
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 274
+        width: 147
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5494252, y: 0.43345168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc5721c63c7b634b8c0a315ee52b740
+      internalID: 1776879987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_186
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 267
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd92b016d3fd141bac37ef3548bd27
+      internalID: -466161435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_187
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 294
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4c957be5c6f984b934c92a28f1ea5c
+      internalID: 269920323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_188
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 178
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae5a33d1664e7343be51a4a1e825716
+      internalID: 1453351005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_189
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 178
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa5cae1e103d9149aeecf6f43698bd9
+      internalID: -1009136497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_190
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 251
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823ac0ffee921fc4dafa49750469037b
+      internalID: -34811417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_191
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 192
+        width: 47
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f64dcc801195384581cb995e774f5ae
+      internalID: -1012639142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_192
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 193
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd995603fdc5fd49a4c288ceea5d5eb
+      internalID: 231921044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_193
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 193
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dfd5fe1e4d84a4a9f15b76a42a1f53
+      internalID: -997076685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_194
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 193
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58aa7464ca33c44fa3db6ef02d141ac
+      internalID: -292862114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_195
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 193
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c964f9293dd126b4a9c8c8cb74f0251d
+      internalID: -1400789550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_196
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 193
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330632f03f981144da6911c8a6653ea0
+      internalID: -1445000433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_197
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 225
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277e6447af2cbc140956e40b9d6ba38a
+      internalID: -1718125639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_198
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 225
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f06325582dbb64e937fb813cd7c02f
+      internalID: 702488879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_199
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 225
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236557ebba7c9a64a8f48f1d0c009800
+      internalID: 1040147003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_200
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 225
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8a5675924a3cf4e83bfdc514c0a537
+      internalID: 669679632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_201
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 225
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b53a1fc04e89b4ab3ca0e7eb59e69e
+      internalID: -1676779115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_202
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 225
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9583970314d02b4997ed6758b35fce4
+      internalID: 1591850704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_203
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 225
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9500dbc2777eff4ab838ed04b186b91
+      internalID: 1178523909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_204
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 152
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4008cf684b87a4e8b36bcc4e254e18
+      internalID: 1025181434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_205
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 154
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f1829c8a38af946801b0f204c994aa
+      internalID: 740861706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_206
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 199
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad84898043bb72459ec6f2df7131008
+      internalID: -328858758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_207
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 198
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da89a74e4ee4144bc1956b4edb63d1
+      internalID: -743589899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_208
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 184
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cbcec375ab9f349bb3ae2baa8958e2
+      internalID: -859371020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_209
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 184
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c604652d7b18fe4bbb06db36fc57696
+      internalID: 1252843833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_210
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 184
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91cb8cb150c0048951136ffdc6ca1c
+      internalID: 529006640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_211
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 184
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b84f2785b7955478bb95f6de725a15
+      internalID: -46783239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_212
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 184
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dbf189249a48f41bcfc67427947549
+      internalID: 1448842962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_213
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 184
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d5382f2a47f4408a81e0f1f0329f4
+      internalID: 312920236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_214
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 118
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3fffcbf3619074ea4c2ecc1fdc5b10
+      internalID: 810504647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_215
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 118
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0a2d61f2ba754e9ec7f42001148be
+      internalID: -664319472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_216
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 162
+        width: 99
+        height: 28
+      alignment: 9
+      pivot: {x: 0.24271247, y: 1.5309862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e52f13ceb2a04ebee9083946bcab4
+      internalID: 1208659559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_217
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 119
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716bacd22c95bbe49aeb7fba807c1c7d
+      internalID: 1712354116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_218
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 119
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f6cef756c994746ad5840d3066f854
+      internalID: -1609328323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_219
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 119
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5137d4ade61c04d4c87b0a577b6eaf6c
+      internalID: 1567365060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_220
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 118
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b1e62ab6a98b3499ef08f49160bba4
+      internalID: 347326428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_221
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 130
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ba82f769c59347b706bafef7b7a6f
+      internalID: 533947372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_222
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 133
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4beff62505684e4da30eccf9566eccd
+      internalID: 1298401246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_223
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 118
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2b6d6211b3044ab0160b03c75fb4d
+      internalID: -724989896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_224
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 131
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f3031690817f4086a82a78273ae66
+      internalID: 1256959205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_225
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 131
+        width: 69
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ae938799e93cd40971cd32cbbe0a6d
+      internalID: 841610838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_226
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 134
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c7581f9c114c4f8f36317f1f53cd9
+      internalID: 371610397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_227
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 130
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4041dadfc146b4e8ae3c4e47ee82dc
+      internalID: -2025258399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_228
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 123
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b345e60792c65324797066231ce3a654
+      internalID: 453535860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_229
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 132
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f462514e0daea94f9dd2c61ff0d8bb0
+      internalID: 207197862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_230
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 135
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8074e610cb3044b4096f1a101703f8f7
+      internalID: 820794421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_231
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 131
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d5e07b9dd50ea4881e0918e0f429d7
+      internalID: 942138662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_232
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a53b266bccb604696bbf6bbbb69aa7
+      internalID: -1152007054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_233
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 31
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94466cc2e81119c4ca0b5b90862a4945
+      internalID: 1755624415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_234
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 30
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d904f140f506c5a449f277ffba23b74e
+      internalID: 1403662745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_235
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 30
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19538953e8499f9448838aab392cfe07
+      internalID: 278771332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_236
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 30
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163831177a3d2f4418a4aa199e8c1ec9
+      internalID: 1630381966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_237
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 30
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5340087c4792f246982404e6d59dcb2
+      internalID: -1305526633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_238
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 13
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe04c432b9bd974cb1d976ba4c639ef
+      internalID: 18436151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_239
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 19
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd1a1964bec81d49bdb24c75019722f
+      internalID: -930389779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_240
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 13
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6abb48777bb7e4fa79002a28266537
+      internalID: 969201326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_241
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 13
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a48a2e4182d1249adfda15230b0ff7
+      internalID: -2032653331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_242
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 13
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fa99a1087e8c741ad4855a1969878a
+      internalID: 321013369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_243
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 13
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001f86bf1cbc154485ab2adcd6e9ed2
+      internalID: 1896398213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_244
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 25
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7a4167c7c5bf489b9059adedaad82
+      internalID: 1249611507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_245
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 25
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7ea1a1a5b58348878231fd92b1f5c
+      internalID: 2145650716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_246
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 25
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e99f7f6a03a9645bd0c2aa8a24fcc6
+      internalID: -1087354492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_247
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 25
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5bc18379925540869020cdf7d25ed
+      internalID: 1195222362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_248
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 25
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601679dc4fa4ba4c95f45ad73d96d25
+      internalID: 128034251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_249
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 29
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1bdfb5c11dfa44bb8a00a0a04b5a6
+      internalID: -755544130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_250
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 28
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28344ff342bea034c8cceca1f660ed19
+      internalID: 656453709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_251
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 27
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65b8a5b77e90f4087d6124a7e0e859
+      internalID: -231782388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_252
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 31
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f307c88d28265408eea7f06f24e07f
+      internalID: -1175328652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_253
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 33
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f099d281a73d4b47aa2b24f3b99efd1
+      internalID: 917250418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_254
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 42
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807c4b798d6c4441a77f209afc2bd9c
+      internalID: 847978150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items Old West_256
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 13
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb2c1a3340fc4a439fd5f5b01a1a2c2
+      internalID: 1622905203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Items Old West_227: -2025258399
+      Items Old West_73: 2069525043
+      Items Old West_101: 1929394118
+      Items Old West_70: 1732861528
+      Items Old West_7: -822411861
+      Items Old West_35: -982874395
+      Items Old West_234: 1403662745
+      Items Old West_190: -34811417
+      Items Old West_82: -1017933439
+      Items Old West_92: -1123969130
+      Items Old West_142: 1105672604
+      Items Old West_109: -646355908
+      Items Old West_160: 875027435
+      Items Old West_202: 1591850704
+      Items Old West_168: 593426341
+      Items Old West_254: 847978150
+      Items Old West_43: -302022100
+      Items Old West_106: 735192715
+      Items Old West_147: 868246119
+      Items Old West_163: -1404257978
+      Items Old West_39: -1827430209
+      Items Old West_113: 1044374584
+      Items Old West_102: 1603156767
+      Items Old West_56: -882397350
+      Items Old West_38: 472315811
+      Items Old West_135: -328894778
+      Items Old West_48: -720132521
+      Items Old West_61: -2090571768
+      Items Old West_200: 669679632
+      Items Old West_42: 2028102040
+      Items Old West_21: 1313344367
+      Items Old West_174: 1943250236
+      Items Old West_12: -1784969585
+      Items Old West_44: -1360090680
+      Items Old West_130: -850851175
+      Items Old West_34: -998570803
+      Items Old West_46: 1303723519
+      Items Old West_67: 1144545360
+      Items Old West_117: 421429952
+      Items Old West_75: 1564265636
+      Items Old West_69: -842753355
+      Items Old West_197: -1718125639
+      Items Old West_192: 231921044
+      Items Old West_29: -1048084993
+      Items Old West_36: -1096474757
+      Items Old West_164: -2022408276
+      Items Old West_62: -1367928880
+      Items Old West_249: -755544130
+      Items Old West_223: -724989896
+      Items Old West_93: -1260333908
+      Items Old West_116: -1472341519
+      Items Old West_129: -378307993
+      Items Old West_221: 533947372
+      Items Old West_241: -2032653331
+      Items Old West_245: 2145650716
+      Items Old West_99: -947188665
+      Items Old West_119: 1622758129
+      Items Old West_136: 713745860
+      Items Old West_32: 2091428446
+      Items Old West_215: -664319472
+      Items Old West_156: -1130371660
+      Items Old West_19: -2021215573
+      Items Old West_78: -1794635339
+      Items Old West_247: 1195222362
+      Items Old West_23: 38511696
+      Items Old West_170: 1950807801
+      Items Old West_214: 810504647
+      Items Old West_122: 1483022138
+      Items Old West_185: 1776879987
+      Items Old West_30: -1067572629
+      Items Old West_104: -485138898
+      Items Old West_212: 1448842962
+      Items Old West_196: -1445000433
+      Items Old West_98: 1161152536
+      Items Old West_27: 429121558
+      Items Old West_198: 702488879
+      Items Old West_94: -725690976
+      Items Old West_236: 1630381966
+      Items Old West_103: -1013296588
+      Items Old West_257: -1627564339
+      Items Old West_2: 1342804571
+      Items Old West_157: 822914604
+      Items Old West_226: 371610397
+      Items Old West_90: -497878239
+      Items Old West_155: 941967717
+      Items Old West_251: -231782388
+      Items Old West_144: 1552093045
+      Items Old West_40: -1027032340
+      Items Old West_126: 2919504
+      Items Old West_179: -1415909031
+      Items Old West_120: -833102710
+      Items Old West_230: 820794421
+      Items Old West_193: -997076685
+      Items Old West_26: 1103043087
+      Items Old West_18: -1844348635
+      Items Old West_28: -1564373549
+      Items Old West_96: 728561675
+      Items Old West_191: -1012639142
+      Items Old West_238: 18436151
+      Items Old West_33: 388279192
+      Items Old West_1: -2023125213
+      Items Old West_140: 691292824
+      Items Old West_189: -1009136497
+      Items Old West_138: 302915010
+      Items Old West_222: 1298401246
+      Items Old West_47: -2051993822
+      Items Old West_45: -1386181177
+      Items Old West_123: 191862255
+      Items Old West_22: 1149032376
+      Items Old West_95: -504690370
+      Items Old West_148: -1691160196
+      Items Old West_180: 1712795904
+      Items Old West_184: 653902229
+      Items Old West_217: 1712354116
+      Items Old West_243: 1896398213
+      Items Old West_149: 1000887062
+      Items Old West_31: 1347900891
+      Items Old West_132: -226128778
+      Items Old West_171: 928444129
+      Items Old West_152: -627111744
+      Items Old West_153: -1792908783
+      Items Old West_112: -1855685487
+      Items Old West_183: 602226112
+      Items Old West_79: 1578088187
+      Items Old West_66: -1386514111
+      Items Old West_242: 321013369
+      Items Old West_235: 278771332
+      Items Old West_161: -2129053409
+      Items Old West_13: 748386677
+      Items Old West_237: -1305526633
+      Items Old West_55: 42718610
+      Items Old West_187: 269920323
+      Items Old West_137: -1979206221
+      Items Old West_127: -783099277
+      Items Old West_139: -1513971743
+      Items Old West_59: -1739130546
+      Items Old West_146: -751786629
+      Items Old West_166: -464410938
+      Items Old West_100: 911113422
+      Items Old West_108: -587659008
+      Items Old West_232: -1152007054
+      Items Old West_124: 89193964
+      Items Old West_15: 462839960
+      Items Old West_195: -1400789550
+      Items Old West_186: -466161435
+      Items Old West_4: -1278240081
+      Items Old West_71: -188558940
+      Items Old West_213: 312920236
+      Items Old West_182: -454529408
+      Items Old West_0: 1260995333
+      Items Old West_172: 1075916340
+      Items Old West_72: 283972738
+      Items Old West_209: 1252843833
+      Items Old West_169: -702526684
+      Items Old West_87: 1060491011
+      Items Old West_207: -743589899
+      Items Old West_150: 1332747119
+      Items Old West_84: 952684126
+      Items Old West_201: -1676779115
+      Items Old West_246: -1087354492
+      Items Old West_151: -1038837300
+      Items Old West_54: 2141524912
+      Items Old West_88: -141586813
+      Items Old West_250: 656453709
+      Items Old West_11: -384860642
+      Items Old West_125: -1776990633
+      Items Old West_216: 1208659559
+      Items Old West_9: -1807952024
+      Items Old West_231: 942138662
+      Items Old West_252: -1175328652
+      Items Old West_188: 1453351005
+      Items Old West_173: 573069120
+      Items Old West_81: -1741329551
+      Items Old West_194: -292862114
+      Items Old West_80: 454929093
+      Items Old West_6: -538609392
+      Items Old West_16: 1030522056
+      Items Old West_68: -1534793960
+      Items Old West_50: -2052152715
+      Items Old West_37: 402616521
+      Items Old West_224: 1256959205
+      Items Old West_114: 149670568
+      Items Old West_177: -481661254
+      Items Old West_121: 1689128024
+      Items Old West_110: 994066068
+      Items Old West_85: 1645315823
+      Items Old West_218: -1609328323
+      Items Old West_248: 128034251
+      Items Old West_3: 1551150724
+      Items Old West_17: 1656555892
+      Items Old West_210: 529006640
+      Items Old West_41: -1482662796
+      Items Old West_205: 740861706
+      Items Old West_204: 1025181434
+      Items Old West_65: -1665947147
+      Items Old West_97: 253114049
+      Items Old West_141: 46377580
+      Items Old West_14: -300451938
+      Items Old West_128: -704186241
+      Items Old West_134: 1394227255
+      Items Old West_220: 347326428
+      Items Old West_154: -918124297
+      Items Old West_105: 556154236
+      Items Old West_20: -259789950
+      Items Old West_5: 220652812
+      Items Old West_63: 1225587675
+      Items Old West_8: 137858319
+      Items Old West_233: 1755624415
+      Items Old West_143: 1501582841
+      Items Old West_83: 714180115
+      Items Old West_10: -1196532385
+      Items Old West_206: -328858758
+      Items Old West_178: 2136722979
+      Items Old West_107: 229403777
+      Items Old West_60: -413012249
+      Items Old West_240: 969201326
+      Items Old West_256: 1622905203
+      Items Old West_52: -256221195
+      Items Old West_64: -843551083
+      Items Old West_145: -1060528327
+      Items Old West_77: -1573726246
+      Items Old West_115: 1704021993
+      Items Old West_165: 1099200168
+      Items Old West_199: 1040147003
+      Items Old West_239: -930389779
+      Items Old West_53: 944098293
+      Items Old West_175: -1602053689
+      Items Old West_131: -449133716
+      Items Old West_228: 453535860
+      Items Old West_76: 844153495
+      Items Old West_255: -1946519450
+      Items Old West_111: -556192709
+      Items Old West_219: 1567365060
+      Items Old West_86: 1271394134
+      Items Old West_253: 917250418
+      Items Old West_176: -1197806014
+      Items Old West_91: 182019655
+      Items Old West_24: 1078206045
+      Items Old West_58: -1027746182
+      Items Old West_159: 311921633
+      Items Old West_167: -1603275137
+      Items Old West_74: 1178470914
+      Items Old West_208: -859371020
+      Items Old West_51: -1081278195
+      Items Old West_133: -1336186652
+      Items Old West_225: 841610838
+      Items Old West_118: -117147190
+      Items Old West_229: 207197862
+      Items Old West_89: 1830397935
+      Items Old West_25: -773909973
+      Items Old West_49: -827553146
+      Items Old West_158: 1907312339
+      Items Old West_203: 1178523909
+      Items Old West_244: 1249611507
+      Items Old West_181: -1634289784
+      Items Old West_57: -79169393
+      Items Old West_162: -189358567
+      Items Old West_211: -46783239
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
