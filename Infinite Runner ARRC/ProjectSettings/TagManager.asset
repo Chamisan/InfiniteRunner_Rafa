@@ -11,6 +11,8 @@ TagManager:
   - Enemy
   - Life
   - Coin
+  - Ammu
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -20,7 +22,7 @@ TagManager:
   - UI
   - Obstacle
   - Enemy
-  - 
+  - Bullet
   - 
   - 
   - 

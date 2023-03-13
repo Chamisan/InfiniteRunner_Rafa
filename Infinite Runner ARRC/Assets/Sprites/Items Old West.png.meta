@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -71,7 +71,7 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
-    compressionQuality: 50
+    compressionQuality: 73
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
@@ -1507,12 +1507,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 215
-        y: 750
+        y: 751
         width: 66
-        height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        height: 63
+      alignment: 9
+      pivot: {x: 0.34771013, y: 0.8243999}
+      border: {x: 0, y: 0, z: 0, w: 25}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1533,7 +1533,7 @@ TextureImporter:
         height: 28
       alignment: 9
       pivot: {x: 0.32610497, y: 1.7011043}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 2, z: 0, w: 6}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -3106,9 +3106,9 @@ TextureImporter:
         y: 522
         width: 66
         height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      alignment: 9
+      pivot: {x: 0.37309217, y: 0.86295575}
+      border: {x: 0, y: 0, z: 0, w: 17}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -3379,9 +3379,9 @@ TextureImporter:
         y: 522
         width: 99
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      alignment: 9
+      pivot: {x: 0.3223285, y: 1.7863007}
+      border: {x: 0, y: 2, z: 0, w: 5}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -5549,12 +5549,12 @@ TextureImporter:
       Items Old West_23: 38511696
       Items Old West_170: 1950807801
       Items Old West_214: 810504647
-      Items Old West_122: 1483022138
       Items Old West_185: 1776879987
+      Items Old West_196: -1445000433
       Items Old West_30: -1067572629
       Items Old West_104: -485138898
       Items Old West_212: 1448842962
-      Items Old West_196: -1445000433
+      Items Old West_122: 1483022138
       Items Old West_98: 1161152536
       Items Old West_27: 429121558
       Items Old West_198: 702488879

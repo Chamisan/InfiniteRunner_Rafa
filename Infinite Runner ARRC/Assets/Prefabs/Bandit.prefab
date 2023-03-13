@@ -11,10 +11,11 @@ GameObject:
   - component: {fileID: 2313459086517697593}
   - component: {fileID: 2313459086517697594}
   - component: {fileID: 2313459086517697595}
-  - component: {fileID: 2313459086517697592}
   - component: {fileID: 2313459086517697591}
   - component: {fileID: 2313459086517697590}
   - component: {fileID: 898418364}
+  - component: {fileID: 16101306871966301}
+  - component: {fileID: 1084787688649523047}
   m_Layer: 7
   m_Name: Bandit
   m_TagString: Enemy
@@ -109,22 +110,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
---- !u!70 &2313459086517697592
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2313459086517697596}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.023466697, y: -0.023168456}
-  m_Size: {x: 0.38306677, y: 0.77366316}
-  m_Direction: 0
 --- !u!50 &2313459086517697591
 Rigidbody2D:
   serializedVersion: 4
@@ -172,3 +157,41 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveForce: 6
+--- !u!114 &16101306871966301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2313459086517697596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a93cf61f3244c34e8b8f668b4d094c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!61 &1084787688649523047
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2313459086517697596}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0060962737, y: -0.036580622}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.43, y: 0.82}
+    newSize: {x: 0.43, y: 0.82}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.30806482, y: 0.68587124}
+  m_EdgeRadius: 0

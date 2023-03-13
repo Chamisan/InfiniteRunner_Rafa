@@ -21,13 +21,15 @@ public class GM : MonoBehaviour
         {
             Instance = this;
         }
+
+        maxPoints = PlayerPrefs.GetInt("Maxpoints", 0); //Cargar el valor de maxPoints desde PlayerPrefs
         points = 0; //Se reinician los puntos cada que cargue la escena desde cero
     }
     //De aquí para adelante empiezan los métodos generales del Game Manager:
 
     public static void PlayGame()
     {
-        Time.timeScale = 1f;
+        Time.timeScale = 0.7f;
     }
     public static void PauseGame()
     {
@@ -36,7 +38,7 @@ public class GM : MonoBehaviour
 
     public static void RestartGame()
     {
-        SceneManager.LoadScene("Principal");
+        SceneManager.LoadScene("Main");
     }
 
     public static void ExitGame()

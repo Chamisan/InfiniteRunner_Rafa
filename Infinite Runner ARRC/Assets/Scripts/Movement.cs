@@ -12,6 +12,7 @@ public class Movement : MonoBehaviour
 
     void Start()
     {
+        Time.timeScale = 0.45f;
         initialPosition = transform.position;
         easy = true; medium = false; hard = false; ultraHard = false;
     }
@@ -43,23 +44,23 @@ public class Movement : MonoBehaviour
     {
         if (easy)
         {
-            Time.timeScale = 0.50f;
-            firstRange = 3f; secondRange = 4f;
+            Time.timeScale = 0.45f;
+            firstRange = 3.5f; secondRange = 4.5f;
         }    
         if (medium)
         {
-            Time.timeScale = 0.65f;
-            firstRange = 2f; secondRange = 3f;
+            Time.timeScale = 0.55f;
+            firstRange = 2.5f; secondRange = 3.5f;
         }
         if (hard)
         {
-            Time.timeScale = 0.80f;
-            firstRange = 1f; secondRange = 2f;
+            Time.timeScale = 0.7f;
+            firstRange = 1.5f; secondRange = 2.5f;
         }
         if (ultraHard)
         {
-            Time.timeScale = 0.9f;
-            firstRange = 0.2f; secondRange = 1f;
+            Time.timeScale = 0.8f;
+            firstRange = 0.5f; secondRange = 1.5f;
         }
     }
 
@@ -85,7 +86,6 @@ public class Movement : MonoBehaviour
         {
             hard = false;
             ultraHard = true;
-            Invoke("ChangeDifficulty", 240f);
         }
     } 
 

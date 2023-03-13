@@ -18,7 +18,7 @@ public class EnemyMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-            enemybody.AddForce(Vector2.right * moveForce * Time.deltaTime * -1, ForceMode2D.Impulse);
+        enemybody.AddForce(Vector2.right * moveForce * Time.deltaTime * -1, ForceMode2D.Impulse);
     }
 
 }

@@ -35,7 +35,7 @@ public class CanvasManager : MonoBehaviour
     public static bool gameOver = false;
 
     // Estos objetos serán los canvas que estaré activando y desactivando
-    private GameObject activeCanvas;
+    public static GameObject activeCanvas; // Lo usaré para saber si el juego está en pausa para el disparo
     private GameObject startCanvas;
     private GameObject pauseCanvas;
     private GameObject gameOverCanvas;
@@ -119,6 +119,7 @@ public class CanvasManager : MonoBehaviour
         {
             GM.maxPoints = GM.points;
             highScore.text = "High Score: " + GM.maxPoints.ToString("D4");
+            PlayerPrefs.SetInt("Maxpoints", GM.maxPoints);
         }
     }
 
