@@ -1,18 +1,12 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-[RequireComponent(typeof(Rigidbody2D))]
 
 public class PlayerBehavior : MonoBehaviour
 {
-    // Para el HUD: Vidas y Municiones
+    // Para el HUD: Vidas
     int numLifes;
     [SerializeField] GameObject[] lifes;
-    [SerializeField] GameObject ammunition;
-    [SerializeField] Sprite[] spritesAmmu;
-    private SpriteRenderer spriteRendererAmmu;
     float lastPointTime;
-
 
     private Rigidbody2D horsebody;
     [SerializeField] private float jumpForce;
@@ -26,20 +20,20 @@ public class PlayerBehavior : MonoBehaviour
     // Esto es para que parpadee en rojo al recibir daño:
     public float damageFlashDuration = 0.1f; // Duración del flash de daño en segundos
     public Color damageFlashColor = Color.red; // Color del flash de daño
-
     private Color originalColor; // Color original del objeto
     private bool isFlashing = false; // Indica si el objeto está parpadeando
 
     // Nueva función, balas:
-    [SerializeField] GameObject bullet;
+    [SerializeField] GameObject bullet, ammunition;
+    [SerializeField] Sprite[] spritesAmmu;
     [SerializeField] Transform firePoint;
-    int maxBullets = 5;
-    int currentBullets;
+    private SpriteRenderer spriteRendererAmmu;
+    private int maxBullets = 5;
+    private int currentBullets;
 
     // Comienza por darle cuerpo rígido al cuerpo del caballo
     void Start()
     {
-        //Time.timeScale = 0.40f; // Repetido a ver si funciona desde el principio
         horsebody = gameObject.GetComponent<Rigidbody2D>();
         isGrounded = false; //Empieza en el suelo
         numLifes = 3; //Empieza con 3 vidas
@@ -54,10 +48,8 @@ public class PlayerBehavior : MonoBehaviour
     {
         // Guarda el color original del objeto
         originalColor = GetComponent<Renderer>().material.color;
-
         // Indica que el objeto está parpadeando
         isFlashing = true;
-
         // Alterna entre el color original y el color de flash de daño
         for (int i = 0; i < 4; i++)
         {
@@ -66,7 +58,6 @@ public class PlayerBehavior : MonoBehaviour
             GetComponent<Renderer>().material.color = originalColor;
             yield return new WaitForSeconds(damageFlashDuration / 2);
         }
-
         // Indica que el objeto ya no está parpadeando
         isFlashing = false;
     }
@@ -97,7 +88,11 @@ public class PlayerBehavior : MonoBehaviour
             collision.gameObject.SetActive(false);
             if (currentBullets < maxBullets)
             {
-                currentBullets++;
+                int randomBullets = 0;
+                randomBullets = Random.Range(1, 5);
+                currentBullets += randomBullets;
+                if (currentBullets > 5) //Este if es por si se pasa del rango máximo de balas
+                    currentBullets = 5;
                 spriteRendererAmmu.sprite = spritesAmmu[currentBullets];  //Y actualiza el sprite del HUD Ammu
             }
             else GM.points += 100;
@@ -111,7 +106,7 @@ public class PlayerBehavior : MonoBehaviour
         if (collision.gameObject.CompareTag("Platform"))  //Este if es para el suelo
             isGrounded = true;
 
-        if (collision.gameObject.CompareTag("LimitZone"))
+        if (collision.gameObject.CompareTag("LimitZone")) //Choca con la zona límite y se activa isEdge para que deje de acelerar
             isEdge = true;
 
         // Si choca con el enemigo (Y el enemigo no está muerto), pierde una vida y se desactiva un corazón del arreglo de vidas.
@@ -136,7 +131,6 @@ public class PlayerBehavior : MonoBehaviour
             isGrounded = false;
     }
 
-
     // El update con todas sus chunches 
     void Update()
     {
@@ -148,14 +142,15 @@ public class PlayerBehavior : MonoBehaviour
          }
 
         // Este if hace que pare de saltar la animación cuando sueltas el botón salto
-        if (Input.GetButtonUp("Jump"))
+        //if (Input.GetButtonUp("Jump"))
+        if (isGrounded==true) //Lo actualicé a que si está en el suelo entonces deje de usar la animación salto
             animator.SetBool("jumping", false);
 
         // Movimiento constante hacia adelante:
         if(!isEdge) //Si es que no está en el borde entonces que corra 
         horsebody.AddForce(Vector2.right * moveForce * Time.deltaTime, ForceMode2D.Impulse);
 
-        // Aquí agregaré 1 punto de score por cada 0.1 segundos que pasen 
+        // Aquí agregaré 1 punto de score por cada 0.2 segundos que pasen 
         if (Time.time - lastPointTime >= 0.2f)
         {
             GM.points += 1;
@@ -172,7 +167,7 @@ public class PlayerBehavior : MonoBehaviour
             GameObject bulletObject = Instantiate(bullet, firePoint.position, firePoint.rotation);
             currentBullets--;
             spriteRendererAmmu.sprite = spritesAmmu[currentBullets]; //Actualiza el sprite Ammu del HUD
-            //Destroy(bulletObject, 1f); Esta es la manera correcta, destruir el objeto bulletObject y no la instancia
+            Destroy(bulletObject, 2f); //Destruye el objeto bulletObject
         }
     }
 
@@ -181,6 +176,4 @@ public class PlayerBehavior : MonoBehaviour
     {
         CanvasManager.gameOver = true;
     }
-
-
 }

@@ -56,9 +56,6 @@ TagManager:
   - name: Buildings
     uniqueID: 1395064987
     locked: 0
-  - name: Characters
-    uniqueID: 234721347
-    locked: 0
   - name: Obstacles
     uniqueID: 521995767
     locked: 0
@@ -67,6 +64,9 @@ TagManager:
     locked: 0
   - name: Pickups
     uniqueID: 1031747227
+    locked: 0
+  - name: Characters
+    uniqueID: 234721347
     locked: 0
   - name: Canvas
     uniqueID: 4067689007

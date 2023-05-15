@@ -17,7 +17,6 @@ public class Movement : MonoBehaviour
         easy = true; medium = false; hard = false; ultraHard = false;
     }
 
-    // Update is called once per frame
     void Update()
     {
         transform.Translate(-velocityMov * Time.deltaTime, 0, 0);
@@ -39,28 +38,29 @@ public class Movement : MonoBehaviour
         Invoke("ResetObject", randomDelay);
     }
 
+    #region Dificultad
     // La función dificultad hace que los objetos se muevan y aparezcan más rápido
     private void Difficulty()
     {
         if (easy)
         {
-            Time.timeScale = 0.45f;
-            firstRange = 3.5f; secondRange = 4.5f;
+            Time.timeScale = 0.55f;
+            firstRange = 4.5f; secondRange = 6f;
         }    
         if (medium)
         {
-            Time.timeScale = 0.55f;
-            firstRange = 2.5f; secondRange = 3.5f;
+            Time.timeScale = 0.65f;
+            firstRange = 4.5f; secondRange = 5.5f;
         }
         if (hard)
         {
-            Time.timeScale = 0.7f;
-            firstRange = 1.5f; secondRange = 2.5f;
+            Time.timeScale = 0.8f;
+            firstRange = 2.5f; secondRange = 4.5f;
         }
         if (ultraHard)
         {
-            Time.timeScale = 0.8f;
-            firstRange = 0.5f; secondRange = 1.5f;
+            Time.timeScale = 0.95f;
+            firstRange = 1f; secondRange = 2.5f;
         }
     }
 
@@ -87,6 +87,6 @@ public class Movement : MonoBehaviour
             hard = false;
             ultraHard = true;
         }
-    } 
-
+    }
+    #endregion
 }

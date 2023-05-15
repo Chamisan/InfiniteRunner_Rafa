@@ -6,17 +6,13 @@ using TMPro;
 
 public class CanvasManager : MonoBehaviour 
 {
-   
-    [SerializeField] Button pauseButton;  // El botón de pausa: 
+    [SerializeField] Button pauseButton; 
+    [SerializeField] TextMeshProUGUI score, highScore;  //La variable texto para el score y el highScore
 
-    [SerializeField] TextMeshProUGUI score;  // La variable texto para el score:
-
-    [SerializeField] TextMeshProUGUI highScore;  // La variable texto para el highScore:
-
-    //La siguiente línea logra que esta clase no necesite instanciar un objeto para utilizar sus métodos
+    // La siguiente línea logra que esta clase no necesite instanciar un objeto para utilizar sus métodos
     public static CanvasManager Instance { get; private set; }
 
-    //Este Awake es complementario a lo anterior, hace una instancia de esta clase desde el principio de todo.
+    // Este Awake es complementario a lo anterior, hace una instancia de esta clase desde el principio de todo.
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -29,25 +25,20 @@ public class CanvasManager : MonoBehaviour
         }
     }
 
-    // Los siguientes bools públicos son para activar y desactivar los canvas, son públicos para usarse en otros scripts y poder pausar desde otros métodos comienza start activado :)
-    public static bool start = true;
-    public static bool pause = false;
-    public static bool gameOver = false;
+    // Los siguientes bools son para activar y desactivar los canvas, son públicos para usarse en otros scripts y poder pausar desde otros métodos comienza start activado :)
+    public static bool start = true, pause = false, gameOver = false;
 
     // Estos objetos serán los canvas que estaré activando y desactivando
-    public static GameObject activeCanvas; // Lo usaré para saber si el juego está en pausa para el disparo
-    private GameObject startCanvas;
-    private GameObject pauseCanvas;
-    private GameObject gameOverCanvas;
+    public static GameObject activeCanvas; //Lo usaré para saber si el juego está en pausa para el disparo
+    private GameObject startCanvas, pauseCanvas, gameOverCanvas;
 
     
     // Start busca los canvas en la jerarquía y los asigna a los objetos además que da true a start para que siempre inicie en ese canvas.
     private void Start()
-    {
-        
-        start = true; // Comienza el juego con start activado
-        // Busca el objeto en la jerarquía y lo asigna 
-        startCanvas = GameObject.Find("StartCanvas");        
+    {  
+        start = true; //Comienza el juego con start activado
+        // Busca el objeto en la jerarquía y lo asigna a los canvas 
+        startCanvas = GameObject.Find("StartCanvas");
         pauseCanvas = GameObject.Find("PauseCanvas");
         pauseCanvas.SetActive(false);
         gameOverCanvas = GameObject.Find("GameOverCanvas");
@@ -59,31 +50,22 @@ public class CanvasManager : MonoBehaviour
     }
 
 
-    // Este método comienza el juego y desactivará todos los canvas para comenzar a jugar
     public void RestartGame()
     {
-        // Jalar método de GM que Reinicia el juego.
-        GM.RestartGame();
+        GM.RestartGame(); //Jalar método de GM que Reinicia el juego.
     }
 
-    //Método que inicia el juego desactivando el canvas activo:
+    // Método que inicia o continúa el juego desactivando el canvas activo:
     public void ContinueGame()
     {
         activeCanvas.SetActive(false);
-        startCanvas.SetActive(false);
         start = false;
         pause = false;
         gameOver = false;
-        //Se activa el botón de pausa
-        pauseButton.interactable = true;
+        pauseButton.interactable = true; //Se activa el botón de pausa
     }
 
-    public void QuitGame()
-    {
-        GM.ExitGame();
-    }
-
-    //Método que activa el canvas start
+    // Método que activa el canvas start
     public void StartCanvas()
     {
         pause = false;
@@ -94,7 +76,7 @@ public class CanvasManager : MonoBehaviour
         pauseButton.interactable = false;
     }
 
-    //Método que activa el canvas pause
+    // Método que activa el canvas pause
     public void PauseCanvas()
     {
         start = false;
@@ -128,10 +110,8 @@ public class CanvasManager : MonoBehaviour
         // Los siguientes if nombrarán al objeto según el bool activado y lo activarán:
         if (start)
             StartCanvas();
-
         if (pause)
             PauseCanvas();
-        
         if (gameOver)
             GameOverCanvas();
 
@@ -147,5 +127,8 @@ public class CanvasManager : MonoBehaviour
         // Aquí toma el puntaje que tiene el GameManager y lo pasa con 4 dígitos al texto score
         score.text = GM.points.ToString("D4");
     }
-
+    public void QuitGame()
+    {
+        GM.ExitGame();
+    }
 }

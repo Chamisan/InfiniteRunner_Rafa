@@ -20,6 +20,7 @@ public class GM : MonoBehaviour
         else
         {
             Instance = this;
+            DontDestroyOnLoad(this.gameObject);
         }
 
         maxPoints = PlayerPrefs.GetInt("Maxpoints", 0); //Cargar el valor de maxPoints desde PlayerPrefs
